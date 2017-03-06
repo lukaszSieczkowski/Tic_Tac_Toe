@@ -4,9 +4,7 @@ import com.company.gameElements.Player;
 
 import java.util.Random;
 
-/**
- * Created by Klakson on 2016-12-23.
- */
+
 public class Rand {
 
     /**
